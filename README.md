@@ -45,13 +45,13 @@ Sign Language Hand Gesture detection using Machine Learning👇
 
 * Team Members
   > Raghul PV 
-  >> University RegNo : 211417104168
+  >> University RegNo : 211417104207
   
   > Rajesh Kumaran A
-  >> University RegNo : 211417104125
+  >> University RegNo : 211417104214
   
   > Ranjith T
-  >> University RegNo : 211417104171
+  >> University RegNo : 211417104222
   
 * Supporting Staffs 
   > Jainulabudeen S.A.K ( Project Mentor )
